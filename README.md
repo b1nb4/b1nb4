@@ -14,8 +14,9 @@
  
  <br>
  
- 
-<div> 
+ <div>
+     <img src="./src/IMAGENS/venusaur.gif" alt="venusaur" class="gif">
+  <div>
 
  
  
