@@ -14,10 +14,7 @@
  
  <br>
  
- <div>
-   <img> srcr="![image](https://github.com/b1nb4/b1nb4/assets/133163966/54f98cdb-9835-4062-b0b8-4ed85c399693)"
 
-  <div>
 
  
  
